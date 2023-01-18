@@ -142,7 +142,7 @@ div h2 {
     justify-content: center;
     align-items: center;
     padding: 7em 18em;
-    max-width: 800px;
+    
 }
 
 .text {
@@ -150,7 +150,7 @@ div h2 {
     font-style: italic;
     font-weight: 60;
     color: #1f2937;
-    /* max-width: 800px; */
+    max-width: 800px;
 }
 
 .thor {
